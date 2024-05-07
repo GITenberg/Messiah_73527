@@ -1,0 +1,32 @@
+_repo: Messiah_73527
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vidal, Gore
+    alias: Vidal, Eugene Luther
+    birthdate: 1925
+    deathdate: 2012
+    gutenberg_agent_id: '53919'
+    url: http://www.gutenberg.org/2009/agents/53919
+    wikipedia: https://en.wikipedia.org/wiki/Gore_Vidal
+description: ''
+gutenberg_issued: '2024-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73527'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=inu.30000047568070&view=1up&seq=9
+pgterms:marc905: 20201028070055vidal
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Andrés V. Galia, Santiago and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bE. P. Dutton & Co, $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Messiah
+url: http://www.gutenberg.org/ebooks/73527
